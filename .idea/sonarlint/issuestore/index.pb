@@ -1,0 +1,23 @@
+
+V
+&src/seminars/second/hw/Motorcycle.java,4\2\42fc0b405aa8c1a03c502926f939baf52eaad1b8
+X
+(Test/seminars/second/hw/VehicleTest.java,8\8\8834eea7ae6f90d88472104fbbdd7017eec00108
+O
+src/seminars/second/hw/Car.java,e\c\ec4d39f211e7855781bc02d31f3a1036ee1e9298
+a
+1src/seminars/second/life_cycle_JUnit5/TestLC.java,f\0\f09f342630ed634abf5bf12eb8c72f216ea444d4
+S
+#src/seminars/second/hw/Vehicle.java,8\4\841dc0af3aa5e1c80d59fb441aa2583021498e8a
+P
+ src/seminars/second/hw/Main.java,5\4\54a2e888890271493e15d69476327bfb818b002c
+g
+7Test/seminars/second/simple_shopping_cart/ShopTest.java,9\5\956f2d2b3bf78e90c0e68c896073160a8d0b1e31
+H
+Test/CalculatorTest.java,d\a\daa95e44708515ebbb12f47692db6ca6f7b0739f
+C
+src/Calculator.java,f\9\f95cb5c0fd95502bf34d6874131d97605e9197f6
+J
+src/CalculatorTestDep.java,3\c\3cc9397b9b22428878d164d2c9b368f28302e8b0
+Q
+!src/seminars/third/hw/MainHW.java,5\5\55e967d1561ef49b513e15e19cfc9d17104f3b65
